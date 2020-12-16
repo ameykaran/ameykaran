@@ -12,7 +12,8 @@
     
 
  
-```if (contact.equals(known)) { 
+```java
+if (contact.equals(known)) { 
    pingMe();
 } else { 
 ```   
