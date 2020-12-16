@@ -10,13 +10,15 @@
   - You can check out my projects [here!](https://github.com/ameykaran?tab=repositories)
   - 🔭 I’m currently working on something really cool...
     
-```java
-if (contact.equals(known)) { 
-   pingMe();
-} else {
-``` 
 
-  📫 You can reach out to me [via](#contact-me) }
+ 
+```if (contact.equals(known)) { 
+   pingMe();
+} else { 
+```   
+`📫 You can reach out to me` [via](#contact-me) }
+
+
 
 ##### Contact Me
    You can drop a message here [@ameykaran](https://www.instagram.com/amey_karan/) or 
