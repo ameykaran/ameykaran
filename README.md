@@ -1,15 +1,8 @@
-<p>
-<a href="https://twitter.com/">
-  <img align="left" alt="Amey Karan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amey-karan-8752201bb/">
-  <img align="left" alt="Amey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
-
+<a href="https://twitter.com/"> <img align="left" alt="Amey Karan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/amey-karan-8752201bb/"><img align="left" alt="Amey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ameykaran.ameykaran)
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I am **Amey Karan**. 
   <img align="right" alt="GIF" src="https://github.com/ameykaran/ameykaran/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -21,12 +14,14 @@
 if (contact.equals(known)) { 
    pingMe();
 } else {
-   📫 You can reach out to me via
-```  
- * [@ameykaran](https://www.instagram.com/amey_karan/) or 
- * [here](https://www.linkedin.com/in/amey-karan-8752201bb/)
+``` 
 
-}   
+  📫 You can reach out to me [via](#contact-me) }
+
+##### Contact Me
+   You can drop a message here [@ameykaran](https://www.instagram.com/amey_karan/) or 
+   [here](https://www.linkedin.com/in/amey-karan-8752201bb/)
+
 
    > Never let yourself down. Always be properly caffeinated :coffee:.
    > -Amey Karan
